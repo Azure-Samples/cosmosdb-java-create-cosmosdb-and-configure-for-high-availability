@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Cosmosdb
-  platforms: java
+- services: Cosmosdb
+- platforms: java
 ---
 
 # Getting Started with Cosmosdb - Manage HA Cosmos DB - in Java #
